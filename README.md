@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Hi, I'm Mohan Kumar 👋
 
 ### Aspiring Data Analyst
