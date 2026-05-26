@@ -1,24 +1,24 @@
-# Hi 👋 I'm Mohan Kumar
+# Hi, I'm Mohan Kumar 👋
 
-## Aspiring Data Analyst
+### Aspiring Data Analyst
 
 💻 Skilled in:
 - SQL
 - PostgreSQL
 - Python
 - Power BI
-- Excel
 
 📊 Currently Working On:
-- Student Management System using PostgreSQL
-
-🚀 Learning:
+- SQL Projects
 - Data Analytics
-- Python for Data Science
 - Dashboard Development
 
-📫 Connect With Me:
-LinkedIn: Add your LinkedIn profile link here
+🚀 Projects
+- Student Management System using PostgreSQL
+
+📫 Connect with me:
+- LinkedIn
+- GitHub
 
 ---
-⭐ Building projects and improving every day.
+⭐ Learning and building real-world data projects.
